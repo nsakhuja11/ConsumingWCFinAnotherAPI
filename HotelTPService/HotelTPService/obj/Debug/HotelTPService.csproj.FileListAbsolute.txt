@@ -1,0 +1,15 @@
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\HotelTPService.dll.config
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\HotelTPService.dll
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\HotelTPService.pdb
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\Cassandra.dll
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\LZ4.dll
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\Microsoft.Extensions.Logging.dll
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\Cassandra.xml
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\Microsoft.Extensions.Logging.xml
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\obj\Debug\HotelTPService.csproj.CoreCompileInputs.cache
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\obj\Debug\HotelTPService.dll
+c:\users\nsakhuja\source\repos\HotelTPService\HotelTPService\obj\Debug\HotelTPService.pdb
